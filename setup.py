@@ -31,6 +31,7 @@ setup(name='plone.app.contenttypes',
           'plone.app.referenceablebehavior',
           'plone.app.relationfield',
           'plone.namedfile [blobs]',
+          'collective.dexteritytextindexer',
           # -*- Extra requirements: -*-
       ],
       extras_require={
