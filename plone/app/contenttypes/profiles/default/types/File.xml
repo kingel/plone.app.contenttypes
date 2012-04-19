@@ -37,7 +37,7 @@
     &lt;/schema&gt;
   &lt;/model&gt;</property>
  <property name="model_file"></property>
- <alias from="(Default)" to="(dynamic view)"/>
+ <alias from="(Default)" to="@@display-file"/>
  <alias from="edit" to="@@edit"/>
  <alias from="sharing" to="@@sharing"/>
  <alias from="view" to="(selected layout)"/>
